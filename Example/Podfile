@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'WLPhotoPicker_Example' do
+  pod 'WLPhotoPicker', :path => '../'
+
+  target 'WLPhotoPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
