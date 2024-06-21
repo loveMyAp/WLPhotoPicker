@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (5.6.0)
+  - WLPhotoPicker (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - WLPhotoPicker (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  WLPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  WLPhotoPicker: 1f034c35cda3b98513436621f2864c3609b76a4a
+
+PODFILE CHECKSUM: 619ad73bbb5a41e3c1bda1a68c9b315a14bc3b25
+
+COCOAPODS: 1.15.2

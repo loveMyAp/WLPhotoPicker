@@ -1,0 +1,27 @@
+{
+  "name": "WLPhotoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of WLPhotoPicker.",
+  "description": "This term is similar to \"Image Picker\" and is often used interchangeably. It emphasizes the selection of photos rather than just generic images.",
+  "homepage": "https://github.com/loveMyAp/WLPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "17621067516": "17621067516@163.com"
+  },
+  "source": {
+    "git": "https://github.com/loveMyAp/WLPhotoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "WLPhotoPicker/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  }
+}
